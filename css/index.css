@@ -12,3 +12,17 @@ body{
 	background-color: cornflowerblue;
 	margin: 0px;
 }
+
+#form1{
+	float:left;
+	margin: 10px 20px 10px 50px;
+	font-weight: 200;
+	font-size: 28px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+
+#form2{
+	float:right;
+	margin: 10px 30px;
+	
+}
