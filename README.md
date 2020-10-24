@@ -8,3 +8,4 @@ We want to mix our course schedule and work plan in one page,Then we can know wh
 More importantly，by done the project we can learn many Web skills.
 
 ## This is a Web demo
+https://airbozh.github.io/Course-work-plan-checklist/
