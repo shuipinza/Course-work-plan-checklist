@@ -14,10 +14,10 @@ body{
 }
 
 #form1{
-	float:left;
+	margin: auto;
 	margin: 10px 20px 10px 50px;
 	font-weight: 200;
-	font-size: 28px;
+	font-size: 25px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
 }
 
